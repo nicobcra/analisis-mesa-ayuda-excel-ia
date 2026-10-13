@@ -63,7 +63,4 @@ Una empresa mediana (caso simulado: *Distribuidora Andina S.A.S.*) recibe ~60 ti
 2. Ve a la hoja **Dashboard** y cambia los filtros de las celdas amarillas.
 3. Para repetir la limpieza: sobre `tblCrudos` → *Datos > Desde tabla/rango* → *Editor avanzado* → pega `powerquery/limpieza_tickets.pq`.
 
-## 🎥 Video
-[Ver presentación](PEGA_AQUI_EL_ENLACE_DE_YOUTUBE_O_DRIVE)
-
 > ⚠️ Los datos son **simulados** con fines académicos; no corresponden a ninguna empresa ni persona real.
