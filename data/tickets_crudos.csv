@@ -1,0 +1,570 @@
+﻿ID_Ticket,Fecha_Apertura,Fecha_Cierre,Area_Solicitante,Categoria,Prioridad,Tecnico,Estado,Satisfaccion
+TK-0001,2026-01-05 13:00:00,2026-01-06 05:33:36,finanzas,Redes,Media,ANDRÉS ROJAS,cerrado,5.0
+TK-0002,07/01/2026 07:05,2026-01-07 09:53:36,OPERACIONES,Hardware,Alta,Diana Castro,Cerrado,4.0
+TK-0003,2026-01-27 16:05:00,2026-01-27 22:10:24,Gerencia,accesos y cuentas,Media,Andrés Rojas,Cerrado,5.0
+TK-0004,2026-01-19 13:00:00,2026-01-23 07:54:00,Gerencia General,Hardware,Baja,Camilo Pérez,Cerrado,4.0
+TK-0005,2026-01-04 16:20:00,04/01/2026 19:27,recursos humanos,  Accesos y cuentas ,Alta,Julián Mora,Cerrado,5.0
+TK-0006,2026-01-12 08:50:00,2026-01-13 19:57:48,Comercial,  Redes ,Media,Diana Castro,Cerrado,5.0
+TK-0007,2026-01-14 12:45:00,2026-01-14 19:19:12,Comercial,Redes,Alta, Laura Gómez,Cerrado,5.0
+TK-0008,2026-01-03 16:20:00,2026-01-04 10:43:24,Recursos Humanos,Correo,Media,Camilo Pérez,Cerrado,4.0
+TK-0009,2026-01-04 15:40:00,2026-01-05 21:44:12,Operaciones,Software,Baja,Diana Castro,Cerrado,4.0
+TK-0010,2026-01-22 08:50:00,2026-01-22 20:44:36,Comercial,Correo,Alta,Camilo Pérez,Cerrado,5.0
+TK-0011,26/01/2026 14:05,2026-01-27 03:45:12,Logística,Impresoras,Media,ANDRÉS ROJAS,Cerrado,4.0
+TK-0012,2026-01-24 11:45:00,2026-01-25 00:57:00,Operaciones,Sofware,Media, Andrés Rojas,Cerrado,5.0
+TK-0013,2026-01-12 09:05:00,2026-01-12 10:12:12,Recursos Humanos,Software,alta,Laura Gómez,Cerrado,5.0
+TK-0014,13/01/2026 14:05,2026-01-13 23:26:36,Operacion,Software,Alta,Laura Gómez,Cerrado,4.0
+TK-0015,28/01/2026 15:20,2026-01-28 23:58:24,Comercial,impresoras,Media,Diana Castro,Cerrado,5.0
+TK-0016,2026-01-05 08:10:00,2026-01-05 08:22:00,Operaciones,Accesos y cuentas,Crítica,Julián Mora,Cerrado,5.0
+TK-0017,2026-01-09 11:00:00,2026-01-11 11:25:12,Finanzas,  Redes ,Media,Camilo Pérez,Cerrado,4.0
+TK-0018,2026-01-20 17:00:00,2026-01-20 22:58:12,Recursos Humanos,Correo,Baja,Julián Mora,Cerrado,5.0
+TK-0019,2026-01-13 13:40:00,2026-01-13 16:19:00,FINANZAS,Accesos y cuentas,Critica,Andrés Rojas,Cerrado,5.0
+TK-0020,2026-01-15 09:05:00,2026-01-15 14:06:12,Operaciones,Hardware,Critica,Laura Gómez,Cerrado,5.0
+TK-0021,2026-01-04 12:00:00,2026-01-05 04:00:36,Finanzas,Software,Media,Camilo Pérez,cerrado,5.0
+TK-0022,2026-01-12 14:05:00,2026-01-12 22:34:24,Finanzas,Redes,Baja,Diana Castro,Cerrado,5.0
+TK-0023,2026-01-10 08:10:00,2026-01-10 08:52:00,  Finanzas ,Software,Alta,Laura Gómez,Cerrado,5.0
+TK-0024,2026-01-01 10:50:00,2026-01-02 01:42:48,Operaciones,Accesos y cuentas,Baja,Julián Mora,Cerrado,5.0
+TK-0025,2026-01-21 08:20:00,2026-01-21 16:11:36,Recursos Humanos,Impresoras,Media,Laura Gómez,cerrado,5.0
+TK-0026,2026-01-18 15:30:00,2026-01-19 04:38:24,Comercial,Accesos y cuentas,baja,Laura Gómez,Cerrado,5.0
+TK-0027,2026-01-27 13:15:00,2026-01-28 18:39:00,Operaciones,Redes,Media,Andrés Rojas,Cerrado,4.0
+TK-0028,2026-01-16 11:15:00,2026-01-16 03:15:00,Comercial,Impresoras,Media,Camilo Pérez,Cerrado,5.0
+TK-0029,2026-01-03 10:05:00,03/01/2026 16:39,OPERACIONES,Software,alta,Julián Mora,Cerrado,5.0
+TK-0030,2026-01-27 07:45:00,2026-01-27 20:27:00,Logística,Software,Media,Andrés Rojas,Cerrado,5.0
+TK-0031,2026-01-26 10:45:00,28/01/2026 17:10,Logística,Redes,Media,Andrés Rojas,Cerrado,3.0
+TK-0032,2026-01-15 13:05:00,2026-01-15 17:12:48,Comercial,Hardware,alta,Laura Gómez,Cerrado,5.0
+TK-0033,2026-01-15 17:10:00,2026-01-15 18:14:12,Comercial,Accesos y cuentas,Media,Camilo Pérez,Cerrado,5.0
+TK-0034,2026-01-05 07:00:00,2026-01-05 08:28:48,Logística,Accesos y cuentas,Alta, Laura Gómez,Cerrado,5.0
+TK-0035,2026-01-28 10:15:00,2026-01-28 16:30:00,  Finanzas ,software,Media,Julián Mora,Cerrado,5.0
+TK-0036,2026-01-09 15:40:00,10/01/2026 04:47,logística,HARDWARE,Media,Diana Castro,Cerrado,5.0
+TK-0037,2026-01-27 15:40:00,2026-01-27 16:41:12,logística,Correo,Alta,Laura Gómez,Cerrado,5.0
+TK-0038,2026-01-17 07:45:00,2026-01-17 20:57:36,Logística,Accesos y cuentas,Baja,Laura Gómez,Cerrado,5.0
+TK-0039,2026-01-05 14:05:00,2026-01-07 01:21:48,recursos humanos,software,media,Julián Mora,Cerrado,4.0
+TK-0040,2026-01-26 08:50:00,2026-01-26 11:45:12,Finanzas,Software,Critica,Andrés Rojas,Cerrado,5.0
+,,,,,,,,
+TK-0041,15/01/2026 15:00,2026-01-16 11:28:48,Logística,Impresoras,Media,Julián Mora,Cerrado,5.0
+TK-0042,2026-01-20 15:15:00,2026-01-21 12:06:36,comercial,Redes,Media,Diana Castro,cerrado,
+TK-0043,2026-01-08 15:20:00,2026-01-08 15:48:48,logística,correo,Alta,DIANA CASTRO,Cerrado,5.0
+TK-0044,2026-01-14 08:40:00,2026-01-14 16:14:12,Operaciones,Hardware,Alta,Andrés Rojas,Cerrado,5.0
+TK-0045,2026-01-22 11:05:00,2026-01-22 21:03:12,Logística,Hardware,Media,Camilo Pérez,Cerrado,4.0
+TK-0046,2026-01-15 10:05:00,2026-01-17 00:17:00,Operaciones,Redes,Baja,Laura Gómez,Cerrado,5.0
+TK-0047,2026-01-23 13:50:00,2026-01-25 23:40:24,Operaciones,Redes,Media,Andrés Rojas,Cerrado,3.0
+TK-0048,2026-01-01 12:50:00,2026-01-01 21:53:00,Recursos Humanos,Accesos y cuentas,Media,Julián Mora,Cerrado,5.0
+TK-0049,2026-01-10 15:05:00,2026-01-10 21:39:12,Finanzas,Impresoras,Alta,Andrés Rojas,Cerrado,4.0
+TK-0050,2026-01-09 11:00:00,2026-01-10 02:25:12,Logística,Software,Baja,Diana Castro,Cerrado,5.0
+TK-0051,13/01/2026 09:50,2026-01-14 09:06:48,Logística,Redes,Media,Andrés Rojas,Cerrado,5.0
+TK-0052,02/01/2026 09:40,02/01/2026 11:23,Logística,Software,Crítica, Andrés Rojas,Cerrado,5.0
+TK-0053,2026-01-03 16:15:00,2026-01-04 00:35:24,Finanzas,Correo,Media,Camilo Pérez,Cerrado,5.0
+TK-0054,2026-01-09 16:10:00,2026-01-10 08:23:48,Finanzas,Accesos y cuentas,Baja,Laura Gómez,Cerrado,5.0
+TK-0055,2026-02-06 10:20:00,2026-02-06 12:20:00,  Comercial ,Redes,Alta,Diana Castro,Cerrado,5.0
+TK-0056,2026-02-22 09:20:00,2026-02-22 23:36:48,Operaciones,Hardware,Alta,Andrés Rojas,Cerrado,3.0
+TK-0057,2026-02-24 15:50:00,2026-02-25 00:57:48,Gerencia,Redes,alta, Diana Castro,Cerrado,3.0
+TK-0058,22/02/2026 17:40,2026-02-28 19:58:00,Comercial,Redes,baja,Julián Mora,Cerrado,3.0
+TK-0059,2026-02-23 10:15:00,2026-02-23 16:30:00,Operaciones,Correo,Media,Laura Gómez,Cerrado,5.0
+TK-0060,2026-02-12 07:10:00,2026-02-13 08:13:36,Finanzas,Accesos y cuentas,Baja,Diana Castro,Cerrado,5.0
+TK-0061,2026-02-02 08:40:00,02/02/2026 11:43,Logistica,accesos y cuentas,Alta,Laura Gómez,Cerrado,5.0
+TK-0062,2026-02-02 14:10:00,2026-02-03 01:17:48,Operaciones,Redes,Alta,Camilo Pérez,Cerrado,5.0
+TK-0063,2026-02-11 10:00:00,2026-02-11 19:37:12,Gerencia,software,Media,Andrés Rojas,Cerrado,5.0
+TK-0064,2026-02-13 08:45:00,2026-02-13 10:13:12,OPERACIONES,Accesos y cuentas,Alta,Andrés Rojas,Cerrado,4.0
+TK-0065,2026-02-09 08:10:00,2026-02-09 09:58:00,Operacion,Hardwre,Crítica,Camilo Pérez,Cerrado,4.0
+TK-0066,2026-02-19 15:10:00,2026-02-20 02:37:36,Comercial,Accesos,Baja,Diana Castro,Cerrado,5.0
+TK-0066,2026-02-19 15:10:00,2026-02-20 02:37:36,Comercial,Accesos,Baja,Diana Castro,Cerrado,5.0
+TK-0067,24/02/2026 14:10,2026-02-24 17:41:12,Operaciones,Accesos y cuentas,Alta,Julián Mora,Cerrado,5.0
+TK-0068,2026-02-24 15:10:00,2026-02-25 03:01:00,Logística,Accesos y cuentas,Media,Andrés Rojas,Cerrado,
+TK-0069,2026-02-26 17:15:00,2026-02-27 13:55:12,Finanzas,Hardware,Media,Andrés Rojas,Cerrado,5.0
+TK-0070,27/02/2026 14:50,2026-02-28 00:46:24,finanzas,Hardware,Media,Laura Gómez,Cerrado,5.0
+TK-0071,2026-02-09 07:45:00,2026-02-09 12:16:48,LOGÍSTICA,Accesos y cuentas,Media,Julián Mora,Cerrado,4.0
+TK-0072,22/02/2026 15:05,24/02/2026 09:39,Comercial,Redes,Baja,CAMILO PÉREZ,Cerrado,4.0
+TK-0073,2026-02-08 17:45:00,2026-02-09 15:22:48,Recursos Humanos,Software,Media,Camilo Pérez,Cerrado,5.0
+TK-0073,2026-02-08 17:45:00,2026-02-09 15:22:48,Recursos Humanos,Software,Media,Camilo Pérez,Cerrado,5.0
+TK-0074,2026-02-21 17:15:00,2026-02-22 01:18:00,Finanzas,Hardware,Alta,Camilo Pérez,Cerrado,4.0
+TK-0075,2026-02-01 14:00:00,2026-02-01 15:08:24,Recursos Humanos,impresoras,Alta,Laura Gómez,Cerrado,5.0
+TK-0076,2026-02-10 15:20:00,2026-02-10 19:44:36,recursos humanos,  Redes ,Alta,Julián Mora,Cerrado,5.0
+TK-0077,2026-02-10 08:45:00,2026-02-13 06:34:48,Finanzas,Redes,Baja,Diana Castro,Cerrado,4.0
+TK-0078,2026-02-13 10:15:00,2026-02-13 17:18:36,Finanzas,  Hardware ,media,Camilo Pérez,Cerrado,5.0
+TK-0079,2026-02-20 17:50:00,2026-02-21 04:44:00,operaciones,Hardware,Media,Diana Castro,Cerrado,5.0
+TK-0080,2026-02-13 07:10:00,14/02/2026 09:31,Finanzas,Redes,Media,Camilo Pérez,Cerrado,4.0
+TK-0081,12/02/2026 13:30,2026-02-12 16:30:36,FINANZAS,Software,alta,Camilo Pérez,Cerrado,4.0
+TK-0082,2026-02-07 07:20:00,2026-02-08 00:14:36,Operaciones,HARDWARE,media,Julián Mora,Cerrado,4.0
+TK-0083,2026-02-12 13:20:00,2026-02-12 13:48:48,logística,Software,crítica,Camilo Pérez,Cerrado,5.0
+TK-0084,2026-02-08 11:40:00,2026-02-09 16:29:12,Recursos Humanos,Software,Media,Diana Castro,Cerrado,3.0
+TK-0085,2026-02-26 17:40:00,2026-02-28 06:10:36,Logística,impresoras,Media,Andrés Rojas,Cerrado,3.0
+TK-0086,2026-02-24 13:45:00,2026-02-24 20:54:36,Comercial,Hardware,Baja,Diana Castro,Cerrado,4.0
+TK-0087,18/02/2026 09:10,2026-02-18 19:41:48,Recursos Humanos,Software,Alta,Camilo Pérez,Cerrado,3.0
+TK-0088,2026-02-10 14:50:00,2026-02-10 22:10:24,Comercial,Hardware,Media, Andrés Rojas,Cerrado,5.0
+TK-0089,2026-02-17 14:50:00,2026-02-18 23:45:48,Operaciones,  Impresoras ,Baja,Diana Castro,Cerrado,5.0
+TK-0090,2026-02-05 15:15:00,08/02/2026 16:27,  Operaciones ,Hardware,media,Camilo Pérez,Cerrado,2.0
+TK-0091,2026-02-26 16:15:00,2026-02-27 00:51:36,Logística,accesos y cuentas,Media,Diana Castro,Cerrado,5.0
+TK-0092,2026-02-07 13:20:00,2026-02-08 05:23:00,Operaciones,Hardware,Alta,Camilo Pérez,Cerrado,3.0
+TK-0093,2026-02-17 17:15:00,2026-02-17 20:42:00,Finanzas,Correo,Media,Diana Castro,Cerrado,5.0
+TK-0094,2026-02-10 07:10:00,2026-02-10 13:10:00,  Finanzas ,Accesos y cuentas,baja,Diana Castro,Cerrado,5.0
+TK-0095,2026-02-16 07:05:00,2026-02-17 05:44:00,Operaciones,Impresoras,Baja,Diana Castro,Cerrado,5.0
+TK-0096,2026-02-08 08:15:00,2026-02-10 07:20:24,Operaciones,Redes,Media,Diana Castro,Cerrado,3.0
+TK-0097,2026-02-18 07:00:00,2026-02-21 06:49:12,Logística,Software,Baja,Camilo Pérez,Cerrado,4.0
+TK-0098,2026-02-17 17:40:00,2026-02-17 21:50:48,  Comercial ,Hardware,crítica,Julián Mora,Cerrado,5.0
+TK-0099,2026-02-07 13:20:00,2026-02-07 14:15:12,Operaciones,accesos y cuentas,Crítica,Camilo Pérez,Cerrado,5.0
+TK-0100,2026-02-11 17:15:00,2026-02-11 23:18:36,Recursos Humanos,Software,alta,Diana Castro,Cerrado,5.0
+TK-0100,2026-02-11 17:15:00,2026-02-11 23:18:36,Recursos Humanos,Software,alta,Diana Castro,Cerrado,5.0
+TK-0101,02/02/2026 07:15,2026-02-02 16:13:12,recursos humanos,Accesos y cuentas,Media,Camilo Pérez,Cerrado,4.0
+TK-0102,2026-02-12 10:45:00,2026-02-12 12:41:24,Finanzas,Software,Media,Diana Castro,cerrado,5.0
+TK-0103,2026-02-01 11:50:00,2026-02-01 18:25:24,Finanzas,Redes,Alta,Laura Gómez,Cerrado,5.0
+TK-0104,2026-03-08 11:20:00,2026-03-09 00:30:12,Finanzas,Accesos y cuentas,Media,Laura Gómez,Cerrado,5.0
+TK-0105,2026-03-14 17:00:00,2026-03-15 13:31:12,Gerencia,  Hardware ,Media,Laura Gómez,Cerrado,4.0
+TK-0106,2026-03-20 09:40:00,2026-03-20 21:30:24,Finanzas,hardware,media,Camilo Pérez,Cerrado,4.0
+TK-0107,2026-03-06 12:15:00,08/03/2026 08:03,Operaciones,Impresoras,Media,Andrés Rojas,Cerrado,4.0
+TK-0108,2026-03-22 13:30:00,2026-03-22 14:33:00,Gerencia,Redes,Alta,Andrés Rojas,Cerrado,
+TK-0109,2026-03-03 12:40:00,2026-03-05 17:26:48,gerencia,HARDWARE,Baja,Laura Gómez,Cerrado,4.0
+TK-0110,2026-03-12 11:40:00,2026-03-12 15:33:24,FINANZAS,Accesos y cuentas,Alta,Julián Mora,Cerrado,5.0
+TK-0111,2026-03-07 12:30:00,2026-03-08 15:42:00,Comercial,redes,Media,Laura Gómez,Cerrado,4.0
+TK-0112,2026-03-02 13:00:00,2026-03-02 13:22:48,Recursos Humanos,correo,Crítica,Laura Gómez,Cerrado,4.0
+TK-0113,2026-03-20 12:30:00,2026-03-20 17:04:12,Operaciones,Impresoras,Media,CAMILO PÉREZ,Cerrado,5.0
+TK-0114,2026-03-09 11:00:00,2026-03-10 02:12:36,Comercial,Accesos y cuentas,Baja, Andrés Rojas,Cerrado,4.0
+TK-0115,2026-03-27 10:05:00,2026-03-29 05:05:36,Recursos Humanos,Impresoras,Baja,Diana Castro,Cerrado,5.0
+TK-0116,14/03/2026 14:10,2026-03-15 03:11:12,LOGÍSTICA,Software,Baja,Camilo Pérez,Cerrado,5.0
+TK-0117,2026-03-20 10:30:00,2026-03-22 00:09:00,Logística,Redes,Baja,Julián Mora,Cerrado,4.0
+TK-0118,2026-03-17 10:40:00,2026-03-17 13:53:48,Logística,Sofware,Crítica,Andrés Rojas,Cerrado,
+TK-0119,2026-03-18 15:30:00,2026-03-18 20:30:36,Operaciones,Redes,Alta,Andrés Rojas,Cerrado,5.0
+TK-0120,2026-03-20 08:15:00,2026-03-20 23:01:48,Finanzas,  Redes ,Media,Diana Castro,Cerrado,5.0
+TK-0121,2026-03-08 09:40:00,2026-03-08 12:47:48,Recursos Humanos,E-mail,Alta,Julián Mora,Cerrado,4.0
+TK-0122,2026-03-25 11:20:00,2026-03-25 18:23:00,Operaciones,  Software ,Alta,Camilo Pérez,Cerrado,4.0
+TK-0123,06/03/2026 10:15,2026-03-07 23:43:48,Operaciones,Correo,Media,Camilo Pérez,Cerrado,3.0
+TK-0124,2026-03-08 15:50:00,2026-03-08 23:29:36,operaciones,correo,Media,Andrés Rojas,Cerrado,4.0
+TK-0125,2026-03-01 14:15:00,2026-03-01 16:31:48,  Logística ,  Impresoras ,Critica,Camilo Pérez,Cerrado,3.0
+TK-0126,2026-03-07 16:15:00,2026-03-08 02:57:36,Gerencia,Software,Baja,DIANA CASTRO,Cerrado,5.0
+,,,,,,,,
+TK-0127,2026-03-09 17:00:00,2026-03-09 23:11:24,Finanzas,Accesos y cuentas,Media,Laura Gómez,Cerrado,4.0
+TK-0128,2026-03-12 12:10:00,2026-03-12 14:07:00,Finanzas,Impresora,Critica,LAURA GÓMEZ,Cerrado,4.0
+TK-0129,2026-03-27 12:40:00,2026-03-27 16:47:48,Comercial,Sofware,Alta,Laura Gómez,Cerrado,
+TK-0130,2026-03-26 14:50:00,2026-03-27 08:36:12,recursos humanos,Software,Baja,Julián Mora,Cerrado,5.0
+TK-0131,2026-03-21 15:05:00,2026-03-21 23:20:00,Comercial,software,Alta,Camilo Pérez,Cerrado,4.0
+TK-0132,2026-03-02 11:30:00,2026-03-06 15:14:24,Operaciones,Hardware,Baja,Camilo Pérez,Cerrado,3.0
+TK-0133,2026-03-24 13:15:00,2026-03-24 18:28:48,Gerencia General,Redes,Alta,Andrés Rojas,Cerrado,4.0
+TK-0134,2026-03-13 16:30:00,2026-03-13 19:57:00,Recursos Humanos,Hardware,Crítica,Julián Mora,Cerrado,5.0
+TK-0135,2026-03-21 13:05:00,2026-03-22 17:38:36,Comercial,  Impresoras ,Media,Laura Gómez,cerrado,4.0
+TK-0136,2026-03-12 11:10:00,12/03/2026 15:16,Recursos Humanos,Impresoras,Alta,Diana Castro,Cerrado,5.0
+TK-0137,10/03/2026 09:00,2026-03-10 18:35:24,Gerencia,Redes,Crítica,Diana Castro,Cerrado,2.0
+TK-0138,2026-03-23 16:10:00,23/03/2026 21:43,comercial,E-mail,Media,Julián Mora,Cerrado,5.0
+TK-0139,2026-03-27 14:10:00,2026-03-28 19:28:00,Recursos Humanos,Hardware,Baja,Laura Gómez,Cerrado,5.0
+TK-0140,2026-03-12 08:10:00,2026-03-12 18:17:12,operaciones,Accesos,Baja,Andrés Rojas,Cerrado,5.0
+TK-0141,2026-03-27 17:00:00,28/03/2026 07:19,Comercial,  Software ,Media,DIANA CASTRO,Cerrado,5.0
+TK-0142,28/03/2026 17:20,2026-03-29 02:17:00,Comercial,Software,Alta,Diana Castro,Cerrado,4.0
+TK-0143,2026-03-15 15:45:00,2026-03-16 14:28:12,Operaciones,Hardware,Baja,DIANA CASTRO,Cerrado,5.0
+TK-0144,2026-03-15 16:45:00,2026-03-15 20:29:24,LOGÍSTICA,Correo,Media,Andrés Rojas,Cerrado,5.0
+TK-0145,2026-03-12 13:30:00,2026-03-14 21:36:36,Finanzas,REDES,Media,ANDRÉS ROJAS,Cerrado,2.0
+TK-0146,21/03/2026 09:05,2026-03-22 09:19:24,Logística,Software,Media,Andrés Rojas,cerrado,3.0
+TK-0147,2026-03-25 15:40:00,2026-03-25 15:54:24,Comercial,Correo,Critica,Andrés Rojas,Cerrado,5.0
+TK-0148,2026-03-24 08:15:00,2026-03-24 12:16:12,Finanzas,E-mail,Alta,Laura Gómez,Cerrado,5.0
+TK-0149,2026-03-03 12:20:00,2026-03-03 20:16:24,  Operaciones ,Correo,Alta,DIANA CASTRO,Cerrado,5.0
+TK-0150,2026-03-09 15:45:00,2026-03-10 11:07:48,Operaciones,Software,media,Camilo Pérez,Cerrado,4.0
+TK-0151,2026-03-06 13:10:00,2026-03-06 16:10:00,Comercial,Software,Alta,Diana Castro,Cerrado,5.0
+TK-0152,2026-03-26 11:05:00,2026-03-28 15:57:48,LOGÍSTICA,Hardware,Baja,DIANA CASTRO,Cerrado,5.0
+TK-0153,2026-03-17 16:05:00,2026-03-21 14:34:24,Operaciones,redes,Baja, Camilo Pérez,Cerrado,3.0
+TK-0154,2026-03-19 09:30:00,19/03/2026 12:30,Operaciones,Hardware,Alta,JULIÁN MORA,Cerrado,4.0
+TK-0155,2026-03-10 15:20:00,2026-03-11 11:43:24,operaciones,Impresoras,Baja,Camilo Pérez,Cerrado,4.0
+TK-0156,2026-03-08 09:20:00,2026-03-09 02:29:00,Comercial,Redes,Media,Andrés Rojas,Cerrado,5.0
+TK-0157,2026-03-16 10:00:00,2026-03-16 20:12:00,Finanzas,Hardware,Media,ANDRÉS ROJAS,Cerrado,5.0
+TK-0158,2026-03-12 15:15:00,2026-03-12 15:49:12,Operaciones,Software,Alta,Camilo Pérez,cerrado,5.0
+TK-0159,2026-03-06 09:00:00,2026-03-06 09:43:48,Gerencia,Software,Alta,Andrés Rojas,Cerrado,4.0
+TK-0160,2026-04-05 17:20:00,2026-04-05 19:14:36,Operaciones,  Software ,Critica,Julián Mora,Cerrado,5.0
+TK-0161,2026-04-20 17:45:00,22/04/2026 04:04,Comercial,Red,Media,Laura Gómez,Cerrado,3.0
+TK-0162,2026-04-02 07:50:00,2026-04-02 09:30:12,Finanzas,Software,alta,Andrés Rojas,cerrado,4.0
+TK-0163,2026-04-20 15:15:00,2026-04-21 10:50:24,Finanzas,Software,Media,Julián Mora,cerrado,5.0
+TK-0164,2026-04-27 16:10:00,2026-04-28 08:29:48,Recursos Humanos,Hardware,Media,Diana Castro,Cerrado,5.0
+TK-0165,2026-04-01 13:40:00,2026-04-02 06:53:48,comercial,Redes,Media,Diana Castro,Cerrado,5.0
+TK-0166,2026-04-08 08:20:00,2026-04-10 06:01:24,Operaciones,Hardwre,Media,Camilo Pérez,Cerrado,4.0
+TK-0167,2026-04-21 15:40:00,2026-04-26 00:55:36,Comercial,Impresoras,Baja,Camilo Pérez,Cerrado,3.0
+TK-0168,2026-04-03 15:00:00,2026-04-04 15:28:48,Operaciones,Impresoras,Baja, Laura Gómez,Cerrado,5.0
+TK-0169,2026-04-24 12:15:00,2026-04-24 18:04:48,  Logística ,Software,Alta,Julián Mora,Cerrado,5.0
+TK-0170,2026-04-16 15:00:00,2026-04-17 12:11:24,Logística,Redes,media,Julián Mora,cerrado,5.0
+TK-0171,2026-04-26 10:40:00,2026-04-29 02:33:24,Comercial,Hardware,Baja,Laura Gómez,Cerrado,3.0
+TK-0172,2026-04-01 08:05:00,02/04/2026 13:49,Comercial,Hardware,Baja,Andrés Rojas,Cerrado,4.0
+TK-0173,2026-04-02 09:00:00,2026-04-02 09:18:36,Comercial,  Accesos y cuentas ,Crítica, Julián Mora,Cerrado,5.0
+TK-0174,2026-04-07 15:05:00,2026-04-07 16:29:00,logística,Accesos y cuentas,Media,Diana Castro,cerrado,4.0
+TK-0175,08/04/2026 10:15,2026-04-09 05:27:00,Finanzas,HARDWARE,Baja,Andrés Rojas,Cerrado,5.0
+TK-0176,2026-04-16 08:10:00,2026-04-16 09:04:00,Finanzas,Accesos y cuentas,Alta,Camilo Pérez,Cerrado,4.0
+TK-0176,2026-04-16 08:10:00,2026-04-16 09:04:00,Finanzas,Accesos y cuentas,Alta,Camilo Pérez,Cerrado,4.0
+TK-0177,2026-04-01 12:20:00,2026-04-02 09:30:12,Gerencia,Hardware,Baja, Camilo Pérez,Cerrado,5.0
+TK-0178,2026-04-17 14:20:00,18/04/2026 00:17,Comercial,Hardware,media,Diana Castro,Cerrado,5.0
+TK-0179,2026-04-25 08:30:00,2026-04-25 17:10:12,recursos humanos,Hardware,Media,Andrés Rojas,Cerrado,5.0
+TK-0180,2026-04-27 11:10:00,2026-04-27 21:20:12,Operaciones,Redes,Alta,Andrés Rojas,Cerrado,3.0
+TK-0181,2026-04-12 14:05:00,2026-04-12 15:26:36,Recursos Humanos,Correo,Alta,Diana Castro,Cerrado,5.0
+TK-0182,2026-04-12 15:20:00,2026-04-13 02:50:00,Comercial,Hardware,Baja,Laura Gómez,Cerrado,5.0
+TK-0183,2026-04-06 08:05:00,2026-04-06 10:24:48,Recursos Humanos,Impresoras,Media,Andrés Rojas,Cerrado,5.0
+TK-0184,2026-04-12 08:40:00,2026-04-13 04:49:00,Logística,Correo,Media,Diana Castro,Cerrado,4.0
+TK-0185,2026-04-12 10:20:00,2026-04-12 20:12:12,Operaciones,Impresoras,Media, Diana Castro,Cerrado,5.0
+TK-0186,2026-04-15 09:50:00,15/04/2026 17:04,Comercial,Accesos y cuentas,Media,Andrés Rojas,Cerrado,5.0
+TK-0187,2026-04-19 12:50:00,2026-04-20 04:29:00,Operaciones,E-mail,Media,Camilo Pérez,Cerrado,4.0
+TK-0188,23/04/2026 11:15,2026-04-23 23:19:12,Finanzas,Redes,Baja,Laura Gómez,Cerrado,5.0
+TK-0189,2026-04-07 11:20:00,2026-04-07 19:46:24,  Logística ,Correo,Media,Laura Gómez,Cerrado,5.0
+TK-0190,2026-04-24 12:50:00,2026-04-25 22:01:24,operaciones,software,Baja,Camilo Pérez,Cerrado,4.0
+TK-0191,2026-04-06 17:05:00,2026-04-06 19:00:12,operaciones,HARDWARE,Alta,Camilo Pérez,Cerrado,5.0
+TK-0192,2026-04-09 10:05:00,2026-04-09 13:18:12,  Comercial ,Hardware,Alta,Diana Castro,Cerrado,5.0
+TK-0193,02/04/2026 07:40,2026-04-02 22:34:36,Logística,Redes,Alta,Camilo Pérez,Cerrado,3.0
+TK-0194,2026-04-09 16:40:00,2026-04-11 15:52:00,Finanzas,Software,Baja,Julián Mora,Cerrado,5.0
+TK-0195,2026-04-24 17:40:00,2026-04-25 22:33:24,logística,Accesos y cuentas,Media,Julián Mora,Cerrado,4.0
+TK-0196,2026-04-22 09:05:00,2026-04-24 08:21:12,Recursos Humanos,Software,media,Andrés Rojas,Cerrado,4.0
+TK-0197,2026-04-08 13:10:00,2026-04-09 11:57:24,Operaciones,Redes,Media,Julián Mora,Cerrado,5.0
+TK-0198,2026-04-17 17:10:00,2026-04-17 19:34:36,Logística,Software,Crítica,Diana Castro,Cerrado,4.0
+TK-0199,2026-04-02 11:50:00,2026-04-02 22:12:12,Operaciones,Accesos y cuentas,Baja,Laura Gómez,Cerrado,5.0
+TK-0200,2026-04-12 08:45:00,2026-04-12 12:54:36,RRHH,accesos y cuentas,Media,Camilo Pérez,Cerrado,5.0
+TK-0201,2026-04-24 14:15:00,25/04/2026 11:42,Gerencia,Software,Media,Andrés Rojas,Cerrado,5.0
+TK-0202,2026-04-12 17:00:00,12/04/2026 21:33,  Operaciones ,Software,Crítica,ANDRÉS ROJAS,Cerrado,4.0
+TK-0203,2026-04-14 17:30:00,2026-04-14 20:42:00,Comercial,Hardware,Alta,Diana Castro,Cerrado,5.0
+TK-0204,2026-04-08 13:45:00,2026-04-09 06:40:12,Operaciones,Hardware,Baja,LAURA GÓMEZ,Cerrado,5.0
+TK-0205,2026-04-21 15:15:00,2026-04-22 01:40:48,Logística,Hardware,media,Diana Castro,Cerrado,5.0
+TK-0206,2026-04-10 15:10:00,10/04/2026 18:59,Logística,Redes,Baja,Laura Gómez,Cerrado,5.0
+TK-0207,2026-04-23 13:20:00,2026-04-23 22:20:36,Gerencia,Accesos y cuentas,Media,Camilo Pérez,Cerrado,4.0
+TK-0208,2026-04-11 14:45:00,2026-04-12 16:15:36,Operaciones,  Accesos y cuentas ,media,Camilo Pérez,Cerrado,3.0
+TK-0209,2026-04-28 13:00:00,2026-04-28 21:00:00,finanzas,Redes,Alta,LAURA GÓMEZ,Cerrado,5.0
+TK-0210,2026-04-27 12:00:00,2026-04-27 13:01:12,  Comercial ,Software,crítica,Camilo Pérez,cerrado,3.0
+TK-0211,2026-04-19 09:15:00,2026-04-21 09:15:00,Operaciones,redes,Baja,Laura Gómez,cerrado,5.0
+TK-0212,2026-04-26 15:10:00,2026-04-27 09:09:24,Comercial,Accesos y cuentas,Baja,Andrés Rojas,Cerrado,5.0
+TK-0213,26/04/2026 17:20,26/04/2026 22:04,Operaciones,Accesos y cuentas,Media,Diana Castro,Cerrado,4.0
+TK-0214,2026-04-18 08:20:00,2026-04-18 12:15:48,Operaciones,Correo,Media,Julián Mora,Cerrado,4.0
+TK-0215,2026-04-16 14:10:00,2026-04-16 18:29:12,Comercial,Software,Alta, Julián Mora,Cerrado,4.0
+TK-0216,2026-04-06 12:45:00,2026-04-06 19:48:36,Comercial,Redes,Alta,Diana Castro,Cerrado,5.0
+,,,,,,,,
+TK-0217,2026-04-14 13:05:00,2026-04-15 04:31:24,  Operaciones ,Software,Media,Andrés Rojas,Cerrado,5.0
+TK-0218,2026-04-02 17:30:00,2026-04-03 22:38:24,Logística,Hardwre,Media,Laura Gómez,Cerrado,3.0
+TK-0219,2026-05-23 13:10:00,2026-05-23 17:21:24,Operaciones,Correo,Media,Diana Castro,Cerrado,5.0
+TK-0220,2026-05-18 10:20:00,2026-05-19 12:23:36,Operaciones,  Redes ,Media,Camilo Pérez,Cerrado,3.0
+TK-0221,13/05/2026 12:50,13/05/2026 22:13,Gerencia,Correo,Media,Laura Gómez,Cerrado,5.0
+TK-0222,2026-05-26 08:30:00,2026-05-26 11:24:00,Operaciones,Accesos y cuentas,Alta,Andrés Rojas,Cerrado,4.0
+TK-0223,2026-05-13 15:40:00,13/05/2026 20:59,Recursos Humanos,Hardware,Alta,Andrés Rojas,Cerrado,4.0
+TK-0224,2026-05-07 14:00:00,2026-05-08 11:11:24,Logística,  Impresoras ,Media,Julián Mora,Cerrado,5.0
+TK-0225,2026-05-21 17:05:00,2026-05-21 23:50:36,Operaciones,Accesos y cuentas,Media,Laura Gómez,Cerrado,4.0
+TK-0226,2026-05-22 09:00:00,2026-05-22 15:36:00,Operaciones,Hardware,Baja,Andrés Rojas,Cerrado,5.0
+TK-0227,28/05/2026 09:20,2026-05-28 20:26:00,Recursos Humanos,Software,Alta, Diana Castro,Cerrado,3.0
+TK-0228,2026-05-11 07:40:00,2026-05-12 10:18:24,Recursos Humanos,Redes,baja,Diana Castro,Cerrado,5.0
+TK-0229,2026-05-17 07:05:00,19/05/2026 07:20,  Logística ,Redes,Media, Diana Castro,Cerrado,3.0
+TK-0229,2026-05-17 07:05:00,19/05/2026 07:20,  Logística ,Redes,Media, Diana Castro,Cerrado,3.0
+TK-0230,2026-05-03 07:40:00,2026-05-04 12:50:48,Comercial,Impresoras,Media,Laura Gómez,Cerrado,4.0
+TK-0231,25/05/2026 13:50,2026-05-25 14:48:48,Finanzas,Accesos y cuentas,Alta,Laura Gómez,Cerrado,4.0
+TK-0232,2026-05-14 07:00:00,2026-05-14 14:24:00,  Comercial ,hardware,Baja,Andrés Rojas,Cerrado,5.0
+TK-0233,2026-05-28 08:10:00,2026-05-28 18:16:36,Recursos Humanos,Software,Media,Diana Castro,Cerrado,5.0
+TK-0234,2026-05-02 12:10:00,2026-05-02 22:08:12,COMERCIAL,Hardware,media,Diana Castro,Cerrado,5.0
+TK-0235,2026-05-22 11:00:00,2026-05-22 14:58:48,Comercial,Hardware,Crítica,Julián Mora,Cerrado,4.0
+TK-0236,2026-05-13 11:20:00,2026-05-13 12:07:24,Comercial,Hardware,Baja,DIANA CASTRO,Cerrado,5.0
+TK-0237,2026-05-02 12:30:00,2026-05-02 20:04:48,Gerencia,ACCESOS Y CUENTAS,Media,Laura Gómez,Cerrado,5.0
+TK-0238,2026-05-26 08:30:00,2026-05-27 02:15:36,Gerencia,Hardware,Baja,Diana Castro,Cerrado,
+TK-0239,25/05/2026 14:20,2026-05-25 16:16:24,Logistica,Redes,Alta,ANDRÉS ROJAS,Cerrado,5.0
+TK-0240,2026-05-21 16:30:00,21/05/2026 17:30,  Logística ,Accesos y cuentas,Crítica,Laura Gómez,Cerrado,5.0
+TK-0241,27/05/2026 11:40,2026-05-27 19:04:00,Gerencia,Software,Media,Diana Castro,Cerrado,5.0
+TK-0242,25/05/2026 10:45,2026-05-25 21:15:36,Operaciones,hardware,Alta,Diana Castro,Cerrado,4.0
+TK-0243,19/05/2026 07:20,2026-05-20 09:13:24,Logística,Correo,baja,Julián Mora,Cerrado,5.0
+TK-0244,2026-05-09 15:45:00,2026-05-10 00:03:00,OPERACIONES,hardware,Media,Diana Castro,Cerrado,5.0
+TK-0245,2026-05-26 10:20:00,26/05/2026 18:00,Comercial,Accesos y cuentas,Media,Laura Gómez,Cerrado,
+TK-0246,2026-05-19 07:40:00,2026-05-20 07:48:24,Recursos Humanos,Hardware,Baja,Andrés Rojas,Cerrado,5.0
+TK-0247,2026-05-13 16:50:00,2026-05-15 03:41:00,Logística,correo,Media,Diana Castro,Cerrado,5.0
+TK-0248,2026-05-19 10:15:00,2026-05-20 08:08:24,Operaciones,Hardware,Baja,Camilo Pérez,Cerrado,5.0
+TK-0249,2026-05-12 13:50:00,2026-05-14 13:25:24,logística,Software,baja,Diana Castro,Cerrado,5.0
+TK-0250,2026-05-28 08:30:00,28/05/2026 12:41,Comercial,Correo,Alta,Julián Mora,Cerrado,4.0
+TK-0251,12/05/2026 11:50,2026-05-12 15:11:36,  Comercial ,Hardware,Alta,Julián Mora,Cerrado,5.0
+TK-0252,2026-05-19 16:15:00,2026-05-19 18:45:36,  Operaciones ,Accesos y cuentas,Media,Diana Castro,Cerrado,5.0
+TK-0253,2026-05-27 16:10:00,2026-05-27 21:17:12,operaciones,hardware,Alta,Laura Gómez,Cerrado,5.0
+TK-0254,2026-05-03 07:00:00,2026-05-03 14:21:00,Finanzas,Sofware,Media,Diana Castro,Cerrado,4.0
+TK-0255,2026-05-28 16:40:00,2026-05-29 01:44:12,Logística,Accesos y cuentas,Alta,Camilo Pérez,Cerrado,3.0
+TK-0256,2026-05-22 15:40:00,2026-05-22 15:52:00,Operaciones,  Correo ,Media,Laura Gómez,Cerrado,5.0
+TK-0257,2026-05-06 07:20:00,2026-05-07 00:06:48,Gerencia,Hardware,Media, Andrés Rojas,Cerrado,4.0
+TK-0258,2026-05-09 15:45:00,2026-05-10 17:01:12,Finanzas,Hardwre,Baja,Laura Gómez,Cerrado,5.0
+TK-0259,2026-05-19 16:45:00,20/05/2026 05:20,Logística,Hardware,Alta,Camilo Pérez,Cerrado,3.0
+TK-0260,2026-05-16 13:10:00,18/05/2026 03:13,Operaciones,CORREO,Baja,Andrés Rojas,Cerrado,5.0
+TK-0261,2026-05-23 10:00:00,2026-05-23 11:38:24,Operaciones,Correo,Crítica,Julián Mora,cerrado,5.0
+TK-0262,2026-05-24 09:45:00,24/05/2026 19:47,Gerencia,Impresoras,Media,Andrés Rojas,Cerrado,4.0
+TK-0263,2026-05-15 12:30:00,2026-05-16 02:53:24,Logística,REDES,media,Laura Gómez,Cerrado,5.0
+TK-0264,2026-05-08 07:10:00,2026-05-08 16:31:36,Comercial,  Redes ,Alta,Laura Gómez,Cerrado,4.0
+TK-0265,2026-05-14 13:15:00,2026-05-17 23:23:24,Operaciones,Software,Baja,Camilo Pérez,Cerrado,4.0
+TK-0266,2026-05-16 08:30:00,2026-05-16 11:13:48,Recursos Humanos,Redes,Alta,Julián Mora,Cerrado,4.0
+TK-0267,2026-05-21 17:15:00,2026-05-21 23:34:48,Recursos Humanos,Correo,Alta,Laura Gómez,cerrado,5.0
+TK-0268,2026-05-14 11:15:00,2026-05-14 21:42:36,Logística,  Hardware ,Alta,Laura Gómez,Cerrado,3.0
+TK-0269,2026-05-27 11:10:00,28/05/2026 18:51,Gerencia,Hardware,Baja, Camilo Pérez,Cerrado,5.0
+TK-0270,01/05/2026 15:20,2026-05-02 19:32:36,Operaciones,redes,Baja,Laura Gómez,Cerrado,5.0
+TK-0271,2026-06-06 09:10:00,06/06/2026 12:40,Recursos Humanos,Software,Alta,Julián Mora,Cerrado,4.0
+TK-0272,2026-06-27 08:45:00,2026-06-27 15:01:12,Logística,Hardware,Alta,Laura Gómez,cerrado,5.0
+TK-0273,2026-06-10 10:00:00,2026-06-09 23:00:00,Finanzas,Accesos y cuentas,Media,Andrés Rojas,Cerrado,5.0
+TK-0274,26/06/2026 12:30,2026-06-25 19:30:00,Operaciones,Accesos y cuentas,Baja,ANDRÉS ROJAS,Cerrado,4.0
+TK-0275,2026-06-14 14:10:00,2026-06-14 15:43:00,Logística,Software,Alta,Camilo Pérez,Cerrado,4.0
+TK-0276,2026-06-19 16:00:00,2026-06-21 08:39:36,Operaciones,  Impresoras ,Baja,Andrés Rojas,Cerrado,4.0
+TK-0277,2026-06-12 10:30:00,2026-06-12 13:13:12,Logística,CORREO,Media,Andrés Rojas,Cerrado,5.0
+TK-0278,2026-06-28 08:45:00,2026-06-30 01:35:24,operaciones,Hardware,Baja,Laura Gómez,Cerrado,4.0
+TK-0279,2026-06-08 08:15:00,08/06/2026 23:20,Comercial,HARDWARE,Alta,Julián Mora,Cerrado,3.0
+TK-0280,2026-06-01 08:15:00,2026-06-01 09:30:00,Operacion,  Correo ,Media,Diana Castro,Cerrado,5.0
+TK-0281,2026-06-08 14:05:00,2026-06-08 17:38:36,Operaciones,hardware,alta,Camilo Pérez,Cerrado,4.0
+TK-0282,2026-06-19 15:20:00,21/06/2026 15:24,Finanzas,Hardware,Baja,Julián Mora,Cerrado,5.0
+TK-0283,2026-06-08 10:10:00,2026-06-08 17:18:24,Comercial,Redes,Media,Andrés Rojas,Cerrado,5.0
+TK-0284,2026-06-23 13:50:00,2026-06-23 17:14:36,Finanzas,  Impresoras ,crítica,Camilo Pérez,Cerrado,4.0
+TK-0285,2026-06-27 12:40:00,2026-06-28 19:05:12,Logística,Redes,Baja,Camilo Pérez,Cerrado,5.0
+TK-0286,2026-06-02 12:50:00,2026-06-02 13:47:36,Finanzas,ACCESOS Y CUENTAS,Media,Diana Castro,Cerrado,4.0
+TK-0287,2026-06-12 08:50:00,2026-06-12 21:42:12,Operaciones,  Software ,Alta,Andrés Rojas,Cerrado,4.0
+TK-0288,2026-06-05 13:40:00,2026-06-05 23:37:36,Logística,Impresoras,Media,Andrés Rojas,Cerrado,4.0
+TK-0289,2026-06-28 17:20:00,2026-06-28 19:38:36,Logística,Accesos y cuentas,Media,Andrés Rojas,Cerrado,5.0
+TK-0290,2026-06-04 11:05:00,06/06/2026 13:06,Recursos Humanos,  Redes ,Baja,Camilo Pérez,Cerrado,3.0
+TK-0291,2026-06-21 09:05:00,22/06/2026 02:20,Finanzas,IMPRESORAS,Baja,CAMILO PÉREZ,Cerrado,5.0
+TK-0292,18/06/2026 09:45,2026-06-18 12:34:48,FINANZAS,Hardware,Alta,Diana Castro,Cerrado,5.0
+TK-0293,2026-06-10 11:15:00,10/06/2026 16:09,Comercial,Accesos y cuentas,Alta,Diana Castro,Cerrado,5.0
+TK-0294,2026-06-23 16:15:00,2026-06-24 01:22:48,Comercial,Software,Media,DIANA CASTRO,Cerrado,5.0
+TK-0295,10/06/2026 16:45,2026-06-10 23:27:00,Recursos Humanos,Software,Alta,Laura Gómez,cerrado,5.0
+TK-0296,2026-06-17 15:40:00,2026-06-19 00:48:24,  Gerencia ,Software,Baja,Laura Gómez,Cerrado,5.0
+TK-0297,2026-06-11 15:30:00,2026-06-13 09:41:24,Recursos Humanos,software,Baja,Camilo Pérez,Cerrado,3.0
+TK-0298,06/06/2026 15:05,2026-06-06 19:39:48,Comercial,Software,Media,Julián Mora,Cerrado,5.0
+TK-0299,2026-06-27 14:30:00,2026-06-27 16:42:36,Comercial,Hardware,Alta,Laura Gómez,Cerrado,5.0
+TK-0300,2026-06-11 17:30:00,2026-06-12 07:44:24,Finanzas,  Software ,Media,Camilo Pérez,Cerrado,5.0
+TK-0301,2026-06-04 14:20:00,2026-06-05 13:45:12,Logística,Accesos y cuentas,Baja,Laura Gómez,Cerrado,5.0
+TK-0302,2026-06-28 08:00:00,2026-06-28 09:07:48,Operaciones,Redes,Alta,Diana Castro,Cerrado,5.0
+,,,,,,,,
+TK-0303,2026-06-05 13:20:00,2026-06-05 21:09:12,Logística,Accesos y cuentas,Media,Diana Castro,Cerrado,5.0
+TK-0304,10/06/2026 12:20,2026-06-12 09:48:48,Operaciones,Redes,Media,Camilo Pérez,Cerrado,3.0
+TK-0305,2026-06-13 14:20:00,2026-06-13 18:17:00,Operaciones,Software,Alta,Julián Mora,Cerrado,0
+TK-0306,19/06/2026 10:05,20/06/2026 14:50,LOGÍSTICA,Software,Baja,Julián Mora,Cerrado,5.0
+TK-0307,2026-06-11 10:40:00,2026-06-11 11:59:48,Logística,Impresoras,Crítica,Camilo Pérez,Cerrado,5.0
+TK-0307,2026-06-11 10:40:00,2026-06-11 11:59:48,Logística,Impresoras,Crítica,Camilo Pérez,Cerrado,5.0
+TK-0308,2026-06-10 15:20:00,2026-06-11 09:41:00,Recursos Humanos,Impresoras,Media,Julián Mora,Cerrado,
+TK-0309,2026-06-13 14:30:00,2026-06-13 15:15:00,Finanzas,Accesos y cuentas,Media,Andrés Rojas,Cerrado,10
+TK-0310,2026-06-17 10:05:00,2026-06-19 12:39:12,Operaciones,Redes,Media,Julián Mora,Cerrado,3.0
+TK-0311,2026-06-07 13:45:00,2026-06-07 20:39:00,Operaciones,accesos y cuentas,Baja,Julián Mora,Cerrado,5.0
+TK-0312,2026-06-23 15:05:00,2026-06-30 12:29:36,Operaciones,Software,baja,Camilo Pérez,Cerrado,2.0
+TK-0313,2026-06-21 11:30:00,2026-06-22 21:54:36,Logística,impresoras,Baja,Diana Castro,Cerrado,5.0
+TK-0314,2026-06-17 11:50:00,18/06/2026 05:15,Operaciones,Correo,Media,Andrés Rojas,Cerrado,5.0
+TK-0315,2026-06-20 08:30:00,2026-06-20 17:55:12,Recursos Humanos,Accesos y cuentas,media,Diana Castro,Cerrado,4.0
+TK-0316,2026-06-26 07:20:00,2026-06-28 11:00:48,Comercial,Redes,Baja,Diana Castro,Cerrado,
+TK-0317,19/06/2026 07:00,22/06/2026 13:04,Operaciones,  Redes ,Media,Camilo Pérez,cerrado,4.0
+TK-0318,2026-06-17 09:15:00,2026-06-17 18:11:24,Operaciones,hardware,Alta,Julián Mora,Cerrado,3.0
+TK-0319,2026-06-01 08:05:00,2026-06-06 02:37:24,Operaciones,Redes,Baja,JULIÁN MORA,Cerrado,3.0
+TK-0320,26/06/2026 07:00,2026-06-26 14:22:48,Comercial,Redes,Alta,Laura Gómez,cerrado,5.0
+TK-0321,2026-06-09 09:00:00,2026-06-10 07:07:12,Operaciones,Hardware,Baja,Julián Mora,Cerrado,4.0
+TK-0322,2026-06-12 10:45:00,2026-06-12 23:45:36,Comercial,Hardware,Alta,Diana Castro,Cerrado,5.0
+TK-0323,2026-06-25 07:45:00,2026-06-25 13:27:36,FINANZAS,  Software ,Alta,Laura Gómez,Cerrado,5.0
+TK-0324,28/06/2026 09:30,2026-06-29 12:00:00,Finanzas,Correo,Media,Diana Castro,cerrado,5.0
+TK-0325,2026-06-09 14:05:00,2026-06-10 10:54:12,Operaciones,Software,Media,Laura Gómez,Cerrado,5.0
+TK-0326,2026-06-10 13:45:00,10/06/2026 16:00,Finanzas,Correo,alta,Laura Gómez,Cerrado,5.0
+TK-0327,2026-06-13 09:00:00,2026-06-14 08:29:24,Gerencia General,Software,Media,Andrés Rojas,Cerrado,5.0
+TK-0328,2026-06-18 13:30:00,19/06/2026 00:49,Operaciones,Hardware,Alta,Camilo Pérez,Cerrado,4.0
+TK-0329,2026-07-15 11:30:00,16/07/2026 16:30,Operaciones,Hardware,Media,Camilo Pérez,Cerrado,4.0
+TK-0330,2026-07-23 09:05:00,2026-07-25 10:36:48,Operaciones,Redes,Baja,Julián Mora,Cerrado,4.0
+TK-0331,2026-07-15 10:10:00,2026-07-15 14:58:36,Operaciones,Software,media,Julián Mora,Cerrado,5.0
+TK-0332,2026-07-10 14:50:00,2026-07-11 08:06:48,Operaciones,  Correo ,Media,Camilo Pérez,Cerrado,5.0
+TK-0333,2026-07-19 12:50:00,2026-07-19 13:30:48,Operaciones,Accesos y cuentas,Alta,Andrés Rojas,Cerrado,5.0
+TK-0334,03/07/2026 15:20,03/07/2026 16:08,  Comercial ,Accesos y cuentas,Critica,Julián Mora,Cerrado,5.0
+TK-0335,2026-07-10 07:40:00,11/07/2026 19:05,comercial,Accesos y cuentas,Baja,Laura Gómez,Cerrado,5.0
+TK-0335,2026-07-10 07:40:00,11/07/2026 19:05,comercial,Accesos y cuentas,Baja,Laura Gómez,Cerrado,5.0
+TK-0336,2026-07-07 17:05:00,2026-07-08 20:30:12,Finanzas,Impresoras,Baja,Camilo Pérez,Cerrado,4.0
+TK-0337,2026-07-03 10:20:00,2026-07-03 14:16:24,Finanzas,Accesos y cuentas,Alta,Diana Castro,Cerrado,5.0
+TK-0338,2026-07-25 17:10:00,2026-07-26 08:37:36,Gerencia,Hardware,Media,Camilo Pérez,Cerrado,4.0
+TK-0339,2026-07-22 14:15:00,2026-07-23 14:56:24,gerencia,  Software ,Baja,Andrés Rojas,Cerrado,5.0
+TK-0340,2026-07-10 08:20:00,2026-07-10 14:04:24,Logística,Accesos y cuentas,Media,Andrés Rojas,Cerrado,5.0
+TK-0341,2026-07-02 16:10:00,2026-07-02 19:34:00,Operaciones,  Accesos y cuentas ,Alta,Andrés Rojas,Cerrado,5.0
+TK-0342,2026-07-10 17:10:00,2026-07-11 17:14:48,Recursos Humanos,Software,Media,Julián Mora,Cerrado,4.0
+TK-0343,2026-07-14 17:30:00,15/07/2026 05:28,Gerencia,Hardwre,Baja,CAMILO PÉREZ,Cerrado,5.0
+TK-0343,2026-07-14 17:30:00,15/07/2026 05:28,Gerencia,Hardwre,Baja,CAMILO PÉREZ,Cerrado,5.0
+TK-0344,2026-07-20 07:15:00,2026-07-20 18:31:12,comercial,Hardware,Alta,Camilo Pérez,Cerrado,3.0
+TK-0345,2026-07-14 13:15:00,16/07/2026 19:15,Operaciones,Hardware,Baja,Diana Castro,Cerrado,4.0
+TK-0346,2026-07-11 15:45:00,2026-07-11 16:19:48,Recursos Humanos,accesos y cuentas,Alta,Julián Mora,Cerrado,5.0
+TK-0347,2026-07-16 10:00:00,2026-07-17 09:31:48,GERENCIA,Correo,Media,Laura Gómez,Cerrado,5.0
+TK-0348,2026-07-06 17:15:00,07/07/2026 00:09,Recursos Humanos,Software,Critica,Camilo Pérez,Cerrado,2.0
+TK-0349,2026-07-07 17:20:00,2026-07-07 22:45:48,  Finanzas ,Accesos y cuentas,Media,Diana Castro,Cerrado,5.0
+TK-0350,2026-07-23 10:00:00,2026-07-25 02:44:24,  Recursos Humanos ,Redes,Baja,Camilo Pérez,Cerrado,5.0
+TK-0351,2026-07-23 09:15:00,2026-07-23 11:39:00,Operaciones,Correo,Media,Laura Gómez,Cerrado,5.0
+TK-0352,2026-07-20 14:40:00,20/07/2026 23:34,Logística,Hardware,Alta,Camilo Pérez,Cerrado,2.0
+TK-0353,02/07/2026 11:20,2026-07-02 22:36:12,Operaciones,Accesos y cuentas,Media,Andrés Rojas,Cerrado,5.0
+TK-0354,11/07/2026 14:45,2026-07-12 00:04:12,recursos humanos,Software,Media,Andrés Rojas,Cerrado,4.0
+TK-0355,2026-07-15 14:05:00,2026-07-16 18:00:48,COMERCIAL,Software,Media,Camilo Pérez,Cerrado,3.0
+TK-0356,2026-07-14 14:15:00,2026-07-15 11:39:00,LOGÍSTICA,Software,Media,Andrés Rojas,Cerrado,5.0
+TK-0357,2026-07-21 16:20:00,2026-07-22 07:09:48,  Comercial ,Hardware,Media,Andrés Rojas,Cerrado,5.0
+TK-0358,2026-07-27 09:20:00,2026-07-27 16:45:48,Operaciones,Impresoras,Media,Laura Gómez,Cerrado,4.0
+TK-0359,2026-07-26 11:30:00,2026-07-26 18:28:48,operaciones,Accesos y cuentas,Media,Laura Gómez,Cerrado,5.0
+TK-0360,2026-07-05 15:30:00,2026-07-05 19:16:12,Logística,software,Critica,Andrés Rojas,cerrado,5.0
+TK-0361,2026-07-26 17:40:00,2026-07-27 00:57:24,Logística,Impresoras,media,Diana Castro,Cerrado,5.0
+TK-0362,2026-07-10 16:05:00,2026-07-10 17:41:36,Finanzas,SOFTWARE,Alta,Diana Castro,Cerrado,4.0
+TK-0363,2026-07-02 14:45:00,2026-07-02 15:08:24,Operaciones,Accesos y cuentas,crítica,Julián Mora,Cerrado,
+TK-0364,2026-07-14 09:20:00,2026-07-15 03:37:24,Finanzas,Hardware,Media,Camilo Pérez,Cerrado,7
+TK-0365,2026-07-22 09:10:00,2026-07-22 22:41:12,Operaciones,Hardware,Baja,Camilo Pérez,Cerrado,5.0
+TK-0366,2026-07-03 15:30:00,2026-07-04 04:57:36,Recursos Humanos,Redes,Media, Laura Gómez,Cerrado,5.0
+TK-0367,2026-07-20 16:05:00,20/07/2026 19:58,Logística,hardware,Media,Julián Mora,Cerrado,
+TK-0368,2026-07-19 16:40:00,2026-07-21 10:03:24,gerencia,Redes,Media,Camilo Pérez,Cerrado,5.0
+TK-0369,2026-07-21 07:15:00,2026-07-21 13:40:48,operaciones,  Accesos y cuentas ,Media,Laura Gómez,Cerrado,5.0
+TK-0370,2026-07-12 15:40:00,2026-07-13 10:50:12,Operaciones,Software,media,Camilo Pérez,Cerrado,4.0
+TK-0371,2026-07-07 15:05:00,2026-07-07 18:41:00,  Operaciones ,Correo,Media,Laura Gómez,Cerrado,5.0
+TK-0372,2026-07-22 11:45:00,2026-07-23 01:25:48,Operaciones,Redes,Media,Andrés Rojas,Cerrado,5.0
+TK-0373,2026-07-19 16:05:00,2026-07-19 20:55:24,Logística,Accesos y cuentas,baja,Laura Gómez,Cerrado,5.0
+TK-0374,2026-07-18 15:05:00,2026-07-18 22:11:00,Comercial,Impresoras,Media,Diana Castro,Cerrado,5.0
+TK-0375,2026-07-18 09:15:00,2026-07-18 09:27:00,  Recursos Humanos ,Accesos y cuentas,Alta,Julián Mora,Cerrado,4.0
+TK-0376,2026-07-13 10:00:00,2026-07-14 02:05:24,Operaciones,HARDWARE,media, Laura Gómez,Cerrado,5.0
+TK-0377,2026-07-10 08:10:00,2026-07-10 22:29:48,Operaciones,Correo,Media,Laura Gómez,Cerrado,5.0
+TK-0378,2026-07-04 12:10:00,2026-07-04 22:44:48,Operaciones,Correo,Baja,Andrés Rojas,Cerrado,5.0
+TK-0379,2026-07-04 10:30:00,2026-07-05 03:23:24,Recursos Humanos,redes,Media,DIANA CASTRO,Cerrado,4.0
+TK-0380,27/07/2026 16:30,2026-07-29 13:00:36,Finanzas,Redes,Baja,Andrés Rojas,Cerrado,4.0
+TK-0381,2026-08-08 11:30:00,2026-08-08 22:13:12,Operaciones,Redes,Media,Andrés Rojas,cerrado,4.0
+TK-0381,2026-08-08 11:30:00,2026-08-08 22:13:12,Operaciones,Redes,Media,Andrés Rojas,cerrado,4.0
+TK-0382,16/08/2026 08:05,2026-08-16 14:06:12,Logística,software,Alta,Diana Castro,Cerrado,5.0
+TK-0383,2026-08-19 11:50:00,20/08/2026 03:56,gerencia,Redes,Media,Andrés Rojas,Cerrado,
+TK-0384,2026-08-05 14:50:00,2026-08-05 20:53:36,Recursos Humanos,Hardware,Critica,Julián Mora,Cerrado,5.0
+TK-0385,13/08/2026 14:10,2026-08-13 22:47:48,comercial,Red,Baja,Julián Mora,Cerrado,4.0
+TK-0386,2026-08-12 12:50:00,2026-08-12 15:51:48,Operaciones,Correo,crítica,Laura Gómez,Cerrado,5.0
+TK-0387,2026-08-24 14:30:00,2026-08-24 17:54:36,comercial,Software,Critica,Julián Mora,Cerrado,5.0
+TK-0388,2026-08-11 10:00:00,2026-08-11 20:31:12,  Operaciones ,Correo,Media,Laura Gómez,Cerrado,5.0
+,,,,,,,,
+TK-0389,2026-08-13 11:05:00,2026-08-14 19:33:12,Recursos Humanos,Software,Media, Laura Gómez,Cerrado,3.0
+TK-0390,2026-08-18 08:15:00,2026-08-19 02:58:12,Logística,Accesos y cuentas,Media,Camilo Pérez,Cerrado,5.0
+TK-0391,2026-08-28 09:05:00,2026-08-29 08:06:48,Operaciones,Accesos y cuentas,Media,Laura Gómez,Cerrado,5.0
+TK-0392,28/08/2026 15:40,2026-08-28 23:53:12,Operaciones,Accesos y cuentas,baja,Diana Castro,Cerrado,5.0
+TK-0393,2026-08-12 10:15:00,2026-08-13 00:06:00,Gerencia,Redes,Baja,Diana Castro,Cerrado,
+TK-0394,2026-08-15 13:20:00,2026-08-15 17:56:36,Logística,Redes,Media,Camilo Pérez,Cerrado,5.0
+TK-0395,2026-08-22 12:05:00,2026-08-22 17:27:48,Logística,Redes,Alta,Julián Mora,Cerrado,5.0
+TK-0396,2026-08-15 12:40:00,2026-08-15 20:07:36,Comercial,Impresoras,Alta,Laura Gómez,Cerrado,5.0
+TK-0397,2026-08-09 15:00:00,2026-08-09 16:16:12,logística,Redes,Critica,Andrés Rojas,Cerrado,5.0
+TK-0398,2026-08-15 10:20:00,2026-08-16 09:01:24,Logística,redes,media,Laura Gómez,Cerrado,5.0
+TK-0399,2026-08-02 08:05:00,2026-08-02 10:38:00,Logistica,Redes,Alta,Laura Gómez,Cerrado,5.0
+TK-0399,2026-08-02 08:05:00,2026-08-02 10:38:00,Logistica,Redes,Alta,Laura Gómez,Cerrado,5.0
+TK-0400,2026-08-18 17:00:00,2026-08-19 07:00:00,Comercial,Redes,Alta,Andrés Rojas,Cerrado,4.0
+TK-0401,2026-08-13 16:30:00,2026-08-13 18:06:00,Operaciones,Correo,Alta,Julián Mora,Cerrado,5.0
+TK-0402,2026-08-25 14:40:00,2026-08-29 18:36:24,Operaciones,Redes,Baja,Julián Mora,Cerrado,3.0
+TK-0403,2026-08-02 13:30:00,2026-08-04 10:04:48,Operaciones,Redes,Media,Andrés Rojas,Cerrado,4.0
+TK-0404,2026-08-27 12:40:00,2026-08-27 16:10:36,Operaciones,Accesos y cuentas,Alta,Julián Mora,Cerrado,5.0
+TK-0405,2026-08-11 10:20:00,2026-08-12 13:34:24,Logística,Redes,Media,Julián Mora,Cerrado,4.0
+TK-0405,2026-08-11 10:20:00,2026-08-12 13:34:24,Logística,Redes,Media,Julián Mora,Cerrado,4.0
+TK-0406,2026-08-18 11:30:00,2026-08-18 19:04:48,recursos humanos,Redes,Crítica,Diana Castro,Cerrado,3.0
+TK-0407,21/08/2026 12:10,2026-08-21 14:16:36,Gerencia General,Software,Alta,Andrés Rojas,Cerrado,5.0
+TK-0408,2026-08-05 08:00:00,2026-08-05 14:13:12,recursos humanos,Software,Alta,Julián Mora,Cerrado,5.0
+TK-0409,24/08/2026 09:10,26/08/2026 06:16,Logística,Correo,Media,CAMILO PÉREZ,Cerrado,
+TK-0410,2026-08-15 14:15:00,2026-08-18 10:47:24,Ventas,Software,Media,Camilo Pérez,Cerrado,2.0
+TK-0411,2026-08-04 17:00:00,2026-08-05 06:43:48,Finanzas,Accesos y cuentas,Baja,Andrés Rojas,Cerrado,5.0
+TK-0411,2026-08-04 17:00:00,2026-08-05 06:43:48,Finanzas,Accesos y cuentas,Baja,Andrés Rojas,Cerrado,5.0
+TK-0412,2026-08-19 13:40:00,20/08/2026 00:47,Logística,software,Baja,Andrés Rojas,Cerrado,
+TK-0413,2026-08-01 11:40:00,05/08/2026 02:17,  Operaciones ,REDES,Media,Camilo Pérez,Cerrado,2.0
+TK-0414,2026-08-07 16:10:00,2026-08-08 08:05:12,  Recursos Humanos ,Impresoras,Baja,Laura Gómez,Cerrado,5.0
+TK-0415,2026-08-10 08:30:00,2026-08-11 06:58:48,Finanzas,Redes,Alta,Julián Mora,Cerrado,4.0
+TK-0416,2026-08-15 10:00:00,2026-08-16 02:42:00,Logística,Sofware,Media,Diana Castro,Cerrado,5.0
+TK-0417,14/08/2026 09:20,2026-08-16 19:33:12,Comercial,Redes,baja, Laura Gómez,Cerrado,4.0
+TK-0418,2026-08-05 15:30:00,2026-08-06 12:49:48,  Finanzas ,Hardware,alta,Camilo Pérez,Cerrado,3.0
+TK-0419,2026-08-11 07:15:00,2026-08-11 15:01:48,operaciones,REDES,Alta,Julián Mora,Cerrado,5.0
+TK-0420,2026-08-19 13:05:00,2026-08-19 10:05:00,Comercial,Hardware,Crítica,Andrés Rojas,Cerrado,4.0
+TK-0421,2026-08-16 09:50:00,2026-08-16 14:18:48,Operaciones,Hardware,Alta,Julián Mora,Cerrado,5.0
+TK-0422,2026-08-04 15:30:00,2026-08-05 03:02:24,Logística,Redes,Baja,Laura Gómez,Cerrado,4.0
+TK-0423,2026-08-09 09:00:00,11/08/2026 03:12,Operaciones,Redes,Media,Diana Castro,cerrado,5.0
+TK-0424,2026-08-12 11:00:00,2026-08-12 19:57:36,Operaciones,Hardware,Alta,Camilo Pérez,Cerrado,4.0
+TK-0425,2026-08-13 13:30:00,2026-08-17 10:02:24,Recursos Humanos,Redes,Baja,Diana Castro,Cerrado,4.0
+TK-0426,2026-08-21 07:15:00,2026-08-22 08:35:24,Comercial,Redes,Media,Diana Castro,Cerrado,4.0
+TK-0427,2026-08-27 10:05:00,27/08/2026 21:38,Finanzas,Redes,Media,Diana Castro,Cerrado,5.0
+TK-0428,2026-08-11 17:45:00,2026-08-11 18:58:12,Recursos Humanos,Software,Crítica,Diana Castro,Cerrado,5.0
+TK-0429,2026-08-11 16:50:00,2026-08-11 19:44:36,Gerencia,  Software ,Media,Diana Castro,Cerrado,5.0
+TK-0430,2026-08-23 08:40:00,2026-08-24 02:26:12,Gerencia,Software,Baja,Andrés Rojas,Cerrado,5.0
+TK-0431,2026-08-22 10:20:00,2026-08-22 23:00:48,Operaciones,E-mail,Media,Julián Mora,cerrado,5.0
+TK-0432,2026-08-19 10:10:00,2026-08-19 12:42:24,Finanzas,Accesos y cuentas,Alta,Laura Gómez,Cerrado,5.0
+TK-0433,2026-08-08 17:10:00,2026-08-10 04:07:00,Operaciones,Red,Baja,Andrés Rojas,Cerrado,5.0
+TK-0434,2026-08-13 12:40:00,2026-08-13 21:02:48,  Finanzas ,Redes,Alta,Camilo Pérez,Cerrado,5.0
+TK-0435,2026-08-17 11:45:00,2026-08-18 03:42:36,Comercial,redes,Media,Andrés Rojas,Cerrado,5.0
+TK-0436,2026-08-21 14:10:00,2026-08-22 02:06:24,Logística,  Hardware ,Media, Julián Mora,Cerrado,5.0
+TK-0437,2026-08-20 12:50:00,2026-08-21 03:29:00,operaciones,Redes,Alta,Julián Mora,Cerrado,4.0
+TK-0438,02/08/2026 16:10,02/08/2026 18:38,Operaciones,Redes,Alta,Camilo Pérez,Cerrado,4.0
+TK-0439,2026-08-17 17:45:00,2026-08-19 07:28:12,Logística,Software,Baja,Julián Mora,Cerrado,
+TK-0440,2026-08-02 14:40:00,2026-08-03 07:41:48,Operaciones,redes,Media,Julián Mora,Cerrado,5.0
+TK-0441,2026-08-12 10:40:00,2026-08-13 02:49:36,Logística,Hardware,Baja,Julián Mora,Cerrado,6
+TK-0442,2026-08-03 17:15:00,2026-08-04 08:22:12,Operaciones,Hardware,Media,Julián Mora,Cerrado,5.0
+TK-0443,2026-08-16 17:00:00,17/08/2026 14:41,Finanzas,Redes,Media,Diana Castro,cerrado,5.0
+TK-0444,2026-08-16 09:05:00,2026-08-18 19:03:48,Operaciones,Red,Baja,LAURA GÓMEZ,Cerrado,4.0
+TK-0445,2026-08-13 15:00:00,2026-08-14 03:43:12,logística,Redes,Media,Diana Castro,Cerrado,4.0
+TK-0445,2026-08-13 15:00:00,2026-08-14 03:43:12,logística,Redes,Media,Diana Castro,Cerrado,4.0
+TK-0446,2026-08-03 10:05:00,2026-08-05 21:20:00,Comercial,Hardware,Baja,Laura Gómez,Cerrado,5.0
+TK-0447,2026-08-15 07:15:00,2026-08-16 05:11:24,Comercial,Redes,Media,Diana Castro,Cerrado,5.0
+TK-0448,2026-08-05 13:00:00,2026-08-07 06:29:24,Logística,redes,Media,Andrés Rojas,Cerrado,4.0
+TK-0449,2026-08-18 11:50:00,2026-08-18 16:13:24,operaciones,Redes,Baja,Julián Mora,Cerrado,5.0
+TK-0450,2026-08-17 13:00:00,2026-08-18 13:54:36,Operaciones,Software,Media,Julián Mora,Cerrado,4.0
+TK-0451,10/08/2026 10:10,2026-08-11 10:28:36,Finanzas,Redes,Media,Diana Castro,Cerrado,5.0
+TK-0452,2026-08-05 12:30:00,05/08/2026 13:57,Operaciones,Impresoras,Critica,CAMILO PÉREZ,Cerrado,3.0
+TK-0453,2026-08-14 16:30:00,2026-08-14 21:27:00,Finanzas,  Software ,Alta, Laura Gómez,Cerrado,5.0
+TK-0454,2026-08-20 14:40:00,2026-08-20 16:55:36,Gerencia,Redes,Crítica,Diana Castro,Cerrado,4.0
+TK-0455,2026-08-02 09:05:00,2026-08-03 05:39:12,Logística,Redes,Media,LAURA GÓMEZ,Cerrado,5.0
+TK-0456,2026-08-08 17:20:00,2026-08-10 19:15:12,Logística,REDES,Baja,Laura Gómez,Cerrado,5.0
+TK-0457,2026-08-04 14:05:00,2026-08-05 21:17:00,Operaciones,Redes,Alta,Camilo Pérez,Cerrado,3.0
+TK-0458,22/08/2026 13:10,2026-08-23 02:10:36,Logística,Redes,alta,Diana Castro,Cerrado,4.0
+TK-0459,2026-08-25 10:30:00,2026-08-25 14:44:24,Comercial,Redes,Alta,Julián Mora,Cerrado,5.0
+TK-0460,2026-08-05 17:15:00,2026-08-06 10:03:36,Operaciones,Hardware,Media,Laura Gómez,Cerrado,5.0
+TK-0461,2026-08-23 08:15:00,24/08/2026 00:58,recursos humanos,Accesos y cuentas,Media,Andrés Rojas,Cerrado,
+TK-0462,2026-08-27 12:05:00,28/08/2026 10:36,Comercial,Software,Media,Andrés Rojas,Cerrado,5.0
+TK-0463,2026-08-16 12:00:00,2026-08-17 15:31:48,LOGÍSTICA,Redes,Alta,Diana Castro,Cerrado,3.0
+TK-0463,2026-08-16 12:00:00,2026-08-17 15:31:48,LOGÍSTICA,Redes,Alta,Diana Castro,Cerrado,3.0
+TK-0464,28/08/2026 11:50,31/08/2026 13:11,Logística,SOFTWARE,Baja,LAURA GÓMEZ,Cerrado,5.0
+TK-0465,10/08/2026 07:05,2026-08-10 16:11:00,  Gerencia ,Software,Media,Andrés Rojas,Cerrado,5.0
+TK-0466,2026-08-11 12:45:00,2026-08-11 20:42:36,Recursos Humanos,Software,Alta,CAMILO PÉREZ,Cerrado,5.0
+TK-0467,2026-08-15 08:50:00,2026-08-15 19:01:24,Finanzas,Hardware,Crítica,Andrés Rojas,cerrado,4.0
+TK-0468,2026-08-19 08:40:00,20/08/2026 21:25,Comercial,Hardware,Media,Camilo Pérez,cerrado,4.0
+TK-0469,12/08/2026 09:05,12/08/2026 19:42,operaciones,CORREO,Media,Laura Gómez,Cerrado,5.0
+TK-0470,2026-08-04 08:15:00,2026-08-05 00:37:48,Finanzas,Redes,Alta,Diana Castro,Cerrado,3.0
+TK-0471,06/08/2026 16:50,2026-08-06 23:53:36,finanzas,SOFTWARE,Alta,Julián Mora,Cerrado,5.0
+TK-0472,05/08/2026 10:50,2026-08-07 10:45:48,Recursos Humanos,Redes,baja,Diana Castro,Cerrado,5.0
+TK-0473,2026-08-07 10:05:00,2026-08-07 12:26:36,Logística,Redes,Crítica,Diana Castro,Cerrado,5.0
+TK-0474,2026-08-17 08:20:00,2026-08-17 11:19:24,Recursos Humanos,Hardware,Alta,Laura Gómez,Cerrado,5.0
+TK-0475,2026-09-26 15:00:00,,Logística,Hardware,Media,Andrés Rojas,Abierto,
+TK-0476,2026-09-27 11:30:00,,Finanzas,Accesos y cuentas,Media,Laura Gómez,En proceso,
+TK-0477,2026-09-26 13:00:00,,  Finanzas ,  Software ,Media,Laura Gómez,En proceso,
+TK-0478,2026-09-25 09:15:00,26/09/2026 02:39,Operaciones,Software,Media,Andrés Rojas,Cerrado,5.0
+TK-0479,2026-09-02 14:50:00,,Logística,Impresoras,baja,Andrés Rojas,Abierto,
+TK-0480,2026-09-28 12:40:00,2026-09-28 21:08:12,Finanzas,Accesos y cuentas,Media,Laura Gómez,Cerrado,5.0
+TK-0481,2026-09-22 14:10:00,2026-09-22 16:41:48,operaciones,Accesos y cuentas,Alta,Andrés Rojas,Cerrado,5.0
+TK-0482,2026-09-06 13:40:00,2026-09-06 21:36:24,Logística,Correo,Baja,Camilo Pérez,Cerrado,4.0
+TK-0483,2026-09-03 11:15:00,2026-09-04 00:03:00,Operaciones,Redes,Media, Diana Castro,Cerrado,4.0
+TK-0484,2026-09-13 17:40:00,2026-09-13 19:41:48,Logística,Accesos y cuentas,Baja,Diana Castro,Cerrado,4.0
+TK-0485,2026-09-08 17:30:00,,Comercial,Impresoras,Media,Camilo Pérez,En proceso,
+TK-0486,2026-09-20 07:05:00,2026-09-21 00:05:36,Logística,Redes,Media,Camilo Pérez,Cerrado,4.0
+TK-0487,2026-09-03 12:40:00,2026-09-03 15:59:12,Logística,Accesos y cuentas,Alta,Andrés Rojas,Cerrado,5.0
+TK-0488,2026-09-23 14:40:00,2026-09-23 21:43:36,Comercial,Correo,Alta,Andrés Rojas,Cerrado,5.0
+TK-0489,2026-09-13 11:30:00,2026-09-13 08:30:00,Gerencia,  Software ,Alta,Julián Mora,Cerrado,5.0
+TK-0490,2026-09-10 14:30:00,2026-09-12 02:33:36,Gerencia,Redes,Baja,Laura Gómez,Cerrado,5.0
+TK-0491,2026-09-13 15:00:00,2026-09-14 12:15:00,Finanzas,Hardware,Baja,Diana Castro,Cerrado,5.0
+TK-0492,2026-09-24 12:05:00,,Gerencia,  Accesos y cuentas ,Baja, Diana Castro,En proceso,
+TK-0493,2026-09-22 13:05:00,2026-09-22 23:34:24,Recursos Humanos,  Software ,Alta,Camilo Pérez,Cerrado,4.0
+TK-0494,2026-09-17 17:00:00,,Logística,  Redes ,Media,Andrés Rojas,Abierto,
+TK-0495,2026-09-18 13:45:00,2026-09-18 23:46:12,Operaciones,Redes,Alta,Julián Mora,Cerrado,3.0
+TK-0496,2026-09-11 14:10:00,2026-09-11 17:43:00,Finanzas,Impresoras,Alta,Laura Gómez,Cerrado,5.0
+TK-0497,2026-09-17 07:40:00,2026-09-20 21:14:12,Operaciones,Redes,Baja,Laura Gómez,Cerrado,5.0
+TK-0498,2026-09-01 13:50:00,2026-09-01 17:41:00,GERENCIA,Accesos y cuentas,Baja,Diana Castro,Cerrado,5.0
+TK-0499,2026-09-23 11:30:00,2026-09-25 01:12:00,Operaciones,Redes,Baja,Julián Mora,cerrado,5.0
+TK-0500,07/09/2026 15:00,2026-09-07 19:42:36,Operaciones,Accesos,Alta,Camilo Pérez,Cerrado,5.0
+TK-0501,2026-09-25 12:10:00,2026-09-26 18:07:00,Operaciones,correo,Media,Julián Mora,Cerrado,4.0
+TK-0502,2026-09-13 08:20:00,2026-09-13 22:56:36,Operaciones,Software,baja,Diana Castro,Cerrado,5.0
+TK-0503,2026-09-20 14:50:00,,Logistica,Accesos y cuentas,Baja,Camilo Pérez,En proceso,
+TK-0504,2026-09-25 15:45:00,2026-09-26 04:10:48,  Comercial ,Correo,Media,Andrés Rojas,Cerrado,5.0
+TK-0505,2026-09-23 13:50:00,2026-09-23 17:19:24,Logística,E-mail,Alta,Diana Castro,Cerrado,4.0
+TK-0506,2026-09-18 16:20:00,2026-09-18 19:59:00,Operaciones,IMPRESORAS,Alta,Laura Gómez,Cerrado,5.0
+TK-0507,2026-09-04 16:40:00,2026-09-04 23:05:12,Logística,Accesos y cuentas,Baja,Laura Gómez,Cerrado,4.0
+TK-0508,2026-09-25 13:40:00,2026-09-27 20:44:12,Logistica,CORREO,Baja,Diana Castro,Cerrado,4.0
+TK-0509,2026-09-12 09:10:00,,Recursos Humanos,  Redes ,Media,CAMILO PÉREZ,En proceso,
+TK-0510,2026-09-22 08:40:00,2026-09-22 18:53:12,Finanzas,Hardware,Media,Laura Gómez,Cerrado,5.0
+TK-0511,2026-09-07 16:20:00,,Logística,Accesos y cuentas,baja,Laura Gómez,Abierto,
+TK-0512,2026-09-17 08:20:00,2026-09-18 09:34:24,Logística,Accesos y cuentas,Baja,Diana Castro,Cerrado,5.0
+TK-0513,2026-09-21 13:20:00,2026-09-22 02:06:48,Comercial,Accesos y cuentas,Media,Julián Mora,Cerrado,5.0
+TK-0514,2026-09-08 11:05:00,2026-09-11 06:56:00,Operaciones,REDES,Baja,Andrés Rojas,Cerrado,
+TK-0515,2026-09-03 08:30:00,2026-09-05 04:47:24,Operaciones,Redes,Baja,Diana Castro,Cerrado,4.0
+TK-0516,2026-09-15 16:50:00,,comercial,Hardware,Media,Diana Castro,Abierto,
+TK-0517,2026-09-10 17:30:00,10/09/2026 22:40,Gerencia,Redes,Alta,Julián Mora,Cerrado,5.0
+TK-0518,2026-09-10 16:50:00,2026-09-09 21:50:00,Comercial,Software,Alta,Julián Mora,Cerrado,5.0
+TK-0519,2026-09-03 17:20:00,2026-09-04 09:41:00,Comercial,Redes,Media,Julián Mora,Cerrado,5.0
+TK-0520,2026-09-08 17:00:00,,Logística,Impresoras,Alta,Camilo Pérez,En proceso,
+TK-0521,2026-09-19 09:40:00,,Recursos Humanos,Accesos y cuentas,Media,Diana Castro,abierto,
+TK-0522,2026-09-04 13:10:00,,Operaciones,  Software ,Media,Julián Mora,Abierto,
+TK-0523,26/09/2026 10:20,2026-09-27 22:07:24,Operaciones,Accesos y cuentas,baja,Camilo Pérez,Cerrado,5.0
+TK-0524,2026-09-24 07:05:00,2026-09-26 03:48:48,Operaciones,Software,Baja,Julián Mora,cerrado,5.0
+TK-0525,2026-09-21 09:30:00,2026-09-21 10:18:00,Gerencia,Software,Critica,Laura Gómez,Cerrado,5.0
+TK-0526,2026-09-01 14:05:00,2026-09-01 20:43:24,Operaciones,E-mail,Media, Diana Castro,Cerrado,4.0
+TK-0527,2026-09-11 12:45:00,2026-09-12 01:12:36,logística,Impresora,Baja,Julián Mora,Cerrado,5.0
+TK-0528,2026-09-13 10:30:00,2026-09-15 05:37:12,operaciones,HARDWARE,Baja,Camilo Pérez,Cerrado,5.0
+TK-0529,2026-09-25 13:10:00,,Logística,Correo,Alta,ANDRÉS ROJAS,En proceso,
+TK-0530,2026-09-01 07:05:00,2026-09-01 21:29:00,Recursos Humanos,Hardware,Baja,Julián Mora,Cerrado,5.0
+TK-0531,2026-09-11 16:50:00,,Logística,Redes,Media,Laura Gómez,Abierto,
+TK-0532,12/09/2026 13:05,2026-09-14 02:57:12,Finanzas,Correo,Baja,Diana Castro,Cerrado,5.0
+TK-0533,2026-09-21 17:45:00,,logística,Redes,Media,Diana Castro,Abierto,
+TK-0534,2026-09-23 17:45:00,2026-09-23 23:54:36,comercial,Redes,Alta,Diana Castro,Cerrado,4.0
+TK-0535,2026-09-23 10:15:00,2026-09-24 03:55:12,Finanzas,redes,Media,Laura Gómez,Cerrado,4.0
+TK-0536,2026-09-08 08:15:00,2026-09-08 15:18:00,Logistica,Hardware,Crítica,Laura Gómez,cerrado,4.0
+TK-0537,2026-09-25 17:00:00,,Gerencia,Accesos y cuentas,Baja,Camilo Pérez,En proceso,
+TK-0538,2026-09-01 14:05:00,2026-09-01 16:40:24,Logística,Correo,Alta,Laura Gómez,Cerrado,5.0
+TK-0539,2026-09-20 15:30:00,,Finanzas,Correo,Baja,Andrés Rojas,Abierto,
+TK-0540,2026-09-18 17:05:00,,Recursos Humanos,Accesos y cuentas,Media,Julián Mora,Abierto,
+TK-0541,2026-09-22 15:20:00,,Recursos Humanos,Accesos y cuentas,Media,Laura Gómez,En proceso,
+TK-0542,2026-09-07 08:15:00,2026-09-08 02:27:00,Comercial,Impresoras,media,Andrés Rojas,Cerrado,5.0
+TK-0543,2026-09-22 08:05:00,,Comercial,Correo,Baja,Andrés Rojas,en proceso,
+TK-0544,2026-09-10 11:20:00,,Finanzas,accesos y cuentas,Baja,Laura Gómez,Abierto,
+TK-0545,02/09/2026 08:15,2026-09-02 19:09:00,recursos humanos,redes,Media,Julián Mora,Cerrado,5.0
+TK-0546,2026-09-25 08:00:00,2026-09-25 09:43:48,Logística,accesos y cuentas,Crítica,Laura Gómez,Cerrado,5.0
+TK-0547,26/09/2026 07:10,2026-09-26 19:38:48,Comercial,Software,Alta,Laura Gómez,Cerrado,4.0
+TK-0548,2026-09-28 12:00:00,29/09/2026 10:52,Operaciones,Hardware,Media,Diana Castro,cerrado,5.0
+TK-0549,2026-09-09 10:00:00,2026-09-09 14:01:12,Operaciones,Hardware,Alta,Camilo Pérez,Cerrado,4.0
+TK-0550,2026-09-11 08:50:00,2026-09-12 15:25:24,Operaciones,Hardware,Baja,Diana Castro,Cerrado,5.0
